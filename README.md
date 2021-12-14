@@ -1,7 +1,6 @@
 # Renty
 
-A web3.0 ready rental marketplace - inspired by Mercari and Rarible.\
-Please visit the site [here](http://rentyhq.com/#/)!
+Renty is a Web3-ready rental marketplace inspired by Mercari and Rarible. This concept is built with MetaMask support and allows for ETH transactions, as well as traditional fiat over Stripe. Stack: MERN, originally deployed over AWS EC2 (currently inactive, but video demo is available [here](https://www.youtube.com/watch?v=o-PKY5japH4)).
 
 ![home](./home.png)
 ![home](./marketplace.png)
